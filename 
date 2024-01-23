@@ -1,0 +1,48 @@
+[33mcommit a454a3bc36442c5977ffdb8b732b5f94decf44a4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: marph625 <135903125+marph625@users.noreply.github.com>
+Date:   Tue Jan 23 13:32:16 2024 +0100
+
+    Update README.md 2 lines by now
+
+[33mcommit 58e179ad9d95dc6f3549b3cbb637b1b2609053e1[m
+Author: marph625 <135903125+marph625@users.noreply.github.com>
+Date:   Tue Jan 23 13:25:36 2024 +0100
+
+    Update README.md
+
+[33mcommit 22dd520219b4016c2eccbb0de0edce3fd6abdc7e[m
+Merge: 16ca7b7 55a0802
+Author: marph625 <marvin.gnesner@gmail.com>
+Date:   Tue Jan 23 13:05:52 2024 +0100
+
+    merged with hello-world-images after fixing conflicts
+
+[33mcommit 55a0802b4ab445cc83bf9b11c27775bcb38fe5e8[m
+Author: marph625 <marvin.gnesner@gmail.com>
+Date:   Tue Jan 23 13:00:21 2024 +0100
+
+    added new image
+
+[33mcommit 16ca7b746274262e8c78431c8b1f37e58042502e[m
+Author: marph625 <marvin.gnesner@gmail.com>
+Date:   Tue Jan 23 12:07:24 2024 +0100
+
+    updated index.html with emergency-fix
+
+[33mcommit e6a86e74b6e6cf841f9a107913b07e28dd3247a0[m
+Author: marph625 <marvin.gnesner@gmail.com>
+Date:   Tue Jan 23 12:03:06 2024 +0100
+
+    added a new image
+
+[33mcommit 50f6db54580a8557e19797ff9870e7b5b8b0b753[m
+Author: marph625 <marvin.gnesner@gmail.com>
+Date:   Mon Jan 22 16:29:45 2024 +0100
+
+    Added an image to Hello World
+
+[33mcommit 67e22d76e97083268bf6f4d136204bf6a599fe8f[m
+Author: marph625 <marvin.gnesner@gmail.com>
+Date:   Mon Jan 22 15:53:33 2024 +0100
+
+    added a line to the html-file
